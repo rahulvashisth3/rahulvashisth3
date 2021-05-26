@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Gmail](rahulvashisth3@gmail.com) or DM on LinkedIn.
 - 😄 Pronouns: He/His/Him
 
-I encourage my data science community in forking, adding star to their repos that I find interesting. I suppose if you like my work, you will too 😉
+I encourage my data science community in forking, adding star to their repos that I find interesting. I suppose if you like my work, you will too😉
 
 <!---
 rahulvashisth3/rahulvashisth3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
